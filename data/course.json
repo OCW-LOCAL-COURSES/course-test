@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-test"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-test"
+  },
+  "course_title": "Course Test",
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-test"
+  },
+  "learning_resource_types": [],
+  "site_uid": "49e219d9-1056-4499-870f-db99ce7957a6"
+}
